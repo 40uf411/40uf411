@@ -35,10 +35,9 @@ Or reach me through my email address: 40uf4l1@gmail.com
 
 <br />
 
----
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=true" />
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&theme=radical" />
 [website]: https://40uf411.com
 [twitter]: https://twitter.com/40uf411
 [facebook]: https://facebook.com/40uf411

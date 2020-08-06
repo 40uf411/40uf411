@@ -34,10 +34,10 @@ Or reach me through my email address: 40uf4l1@gmail.com
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&theme=radical" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&layout=compact&theme=default" />
 
 [website]: https://40uf411.com
 [twitter]: https://twitter.com/40uf411

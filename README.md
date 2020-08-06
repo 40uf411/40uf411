@@ -5,17 +5,15 @@
 - 🌱 I’m currently learning deep learning technologies and modern web design/development technologies.
 - 👯 I’m looking to collaborate on projects that include genetic adversarial networks.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-<!-- ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
 
-<!--[<img align="left" alt="40uf411.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="40uf411 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="40uf411.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="40uf411 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="40uf411 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="40uf411 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="40uf411 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
+Or reach me through my email address: 40uf4l1@gmail.com
 
 ### Languages and Tools:
 
@@ -42,6 +40,7 @@
 
 [website]: https://40uf411.com
 [twitter]: https://twitter.com/40uf411
+[facebook]: https://facebook.com/40uf411
 [youtube]: https://youtube.com/40uf411
 [instagram]: https://instagram.com/40uf411
 [linkedin]: https://linkedin.com/in/40uf411

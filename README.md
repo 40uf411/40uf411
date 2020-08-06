@@ -12,7 +12,8 @@
 [<img align="left" alt="40uf411 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="40uf411 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="40uf411 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+<br/>
+<br/>
 Or reach me through my email address: 40uf4l1@gmail.com
 
 ### Languages and Tools:

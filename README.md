@@ -2,7 +2,7 @@
 
 ## I'm a computer-scince Student,Open-source Volunteer, and AI nthusiast!
 - 🔭 I’m currently working on a Medium clone that is targeting arabic speaking communities.
-- 🌱 I’m currently learning deep learning technologies and modern web design/development technologies.
+- 🌱 I’m currently learning deep learning technologies(GAN) and modern web design/development(React/Gatsby) technologies.
 - 👯 I’m looking to collaborate on projects that include genetic adversarial networks.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 

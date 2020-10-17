@@ -1,6 +1,6 @@
 ### ¡Hola! I'm [Ali][website]! 👋
 
-## I'm a computer-scince Student, Open-source Volunteer, and AI enthusiast!
+## I'm a computer-science Student, Open-source Volunteer, and AI enthusiast!
 - 🔭 I’m currently working on a Medium clone that is targeting arabic speaking communities.
 - 🌱 I’m currently learning deep learning technologies(GAN) and modern web design/development(React/Gatsby) technologies.
 - 👯 I’m looking to collaborate on projects that include genetic adversarial networks.

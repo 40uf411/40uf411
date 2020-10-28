@@ -2,9 +2,9 @@
 
 ## I'm a computer-science Student, Open-source Volunteer, and AI enthusiast!
 - 🔭 I’m currently working on a Medium clone that is targeting arabic speaking communities.
-- 🌱 I’m currently learning deep learning technologies(GAN) and modern web design/development(React/Gatsby) technologies.
-- 👯 I’m looking to collaborate on projects that include genetic adversarial networks.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning computational neuroscience.
+- 👯 I’m looking to collaborate on projects that include computational neuroscience.
+- 🥅 2020 Goals: land a foot in computational neuroscience and contribute more to Open Source projects.
 
 ### Connect with me:
 
@@ -46,7 +46,7 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 -->
 <br />
 <br />
-
+<br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />
 <br />
 <br />

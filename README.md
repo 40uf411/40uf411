@@ -47,17 +47,10 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 <br />
 <br />
 <br />
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&layout=compact&theme=default" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&layout=compact&theme=default" />
 
 [website]: https://40uf411.com
 [twitter]: https://twitter.com/40uf411

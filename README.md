@@ -40,10 +40,11 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />
 <img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />
-<!--
+
 <img align="left" alt="Pytorch" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />
+
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />
--->
+
 <br />
 <br />
 <br />

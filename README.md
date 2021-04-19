@@ -43,11 +43,9 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 
 <img align="left" alt="Pytorch" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />
-
-
 <br />
 <br />
-
+<hr/>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&layout=compact&theme=default" />
 <br />
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />

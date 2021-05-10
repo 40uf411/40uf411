@@ -1,4 +1,4 @@
-### ¡Hola! I'm [Ali][website]! 👋
+### ¡Hola! Soy [Ali][website]! 👋
 
 ## I'm a computer-science Student, Open-source Volunteer, and AI enthusiast!
 - 🔭 I’m currently working on a Medium clone that is targeting arabic speaking communities.

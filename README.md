@@ -57,3 +57,5 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 [youtube]: https://youtube.com/40uf411
 [instagram]: https://instagram.com/40uf411
 [linkedin]: https://linkedin.com/in/40uf411
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)

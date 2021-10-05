@@ -49,7 +49,6 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 <br />
 <hr/>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=40uf411&layout=compact&theme=default" />
-<br />
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=40uf411&show_icons=true&hide_border=false&theme=default" />
 
 [website]: https://40uf411.com
@@ -57,6 +56,9 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 [facebook]: https://facebook.com/40uf411
 [youtube]: https://youtube.com/40uf411
 [instagram]: https://instagram.com/40uf411
-[linkedin]: https://linkedin.com/in/40uf411
+[linkedin]: https://linkedin.com/in/40uf411!
 
 
+
+
+![layered-waves-haikei (4)](https://user-images.githubusercontent.com/29804103/136114897-d12b15bd-3817-45cb-a2d1-bc155b8aa86e.png)

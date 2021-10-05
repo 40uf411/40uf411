@@ -1,3 +1,5 @@
+![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ### ¡Hola! Soy [Ali][website]! 👋
 
 ## I'm a computer-science Student, Open-source Volunteer, and AI enthusiast!
@@ -58,4 +60,4 @@ Or reach me through my email address: 40uf4l1 at gmail dot com
 [instagram]: https://instagram.com/40uf411
 [linkedin]: https://linkedin.com/in/40uf411
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
